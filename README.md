@@ -10,6 +10,6 @@ repayment plan.
 
 The debts file is a comma-separated value (CSV) file that is in the format:
    
-   Debt Label,Interest Rate (0-1),Minimum Payment,Current Balance
+> Debt Label,Interest Rate (0-1),Minimum Payment,Current Balance
 
 
