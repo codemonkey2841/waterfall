@@ -6,7 +6,7 @@ directory, then ask you for any extra funds to be used in the repayment plan
 the are not accounted for in the minimum payments, and calculate the debt 
 repayment plan.
 
-h1. Debts File
+# Debts File
 
 The debts file is a comma-separated value (CSV) file that is in the format:
    
